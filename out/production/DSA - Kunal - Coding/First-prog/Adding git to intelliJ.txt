@@ -1,0 +1,4 @@
+How to add git repo and commands to INtelliJ Idea.
+Video link.
+
+https://youtu.be/LlvO_KUPVgI
