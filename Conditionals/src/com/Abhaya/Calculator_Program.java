@@ -34,13 +34,14 @@ public class Calculator_Program {
                         ans = a / b;
                     }
                 }
-                else if (str == 'x' || str == 'X') {
-                    break;
-                } else {
-                    System.out.println("Invalid Operation");
-                }
+
             }
-                System.out.println(ans);
+            else if (str == 'x' || str == 'X') {
+                break;
+            } else {
+                System.out.println("Invalid Operation");
+            }
+            System.out.println(ans);
         }
 
 
