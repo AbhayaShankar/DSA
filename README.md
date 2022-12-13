@@ -4,5 +4,5 @@ A Problem Solving Mindset is a necessity in the modern world. Learning DSA from 
 <a href = "https://youtu.be/wn49bJOYAZM"> Video Link for DSA Bootcamp - JAVA </a>
 <p> A complete Java DSA Bootcamp for beginners. Follow and learn DSA. </p>
 
-<p> Follow me on Linkedin <a href ="www.linkedin.com/in/abhayashankar"> Abhaya Shankar </a> </p>
+<p> Follow me on Linkedin <a href ="https://www.linkedin.com/in/abhayashankar"> Abhaya Shankar </a> </p>
 <p> Github : <a href = "https://github.com/AbhayaShankar"> AbhayaShankar </a> </p>
