@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="817ba6a5-1970-4d59-b2dd-60a609c68036" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Conditionals/com/Abhaya/Calculator_Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Conditionals/com/Abhaya/CaseCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Conditionals/com/Abhaya/Largest_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Conditionals/com/Abhaya/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Conditionals/com/Abhaya/Number_of_times_a_digit_is_repeated_in_a_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Conditionals/com/Abhaya/conditionals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Conditionals/com/Abhaya/reversing_a_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abhaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator_Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Largest_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number_of_times_a_digit_is_repeated_in_a_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volume-of-a-Prism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/Abhaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/Assignments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/Calculator_Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/CaseCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/Largest_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/Number_of_times_a_digit_is_repeated_in_a_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/Volume-of-a-Prism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/conditionals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abhaya/com/Abhaya/reversing_a_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reversing_a_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../First-prog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/Functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/out/production/Functions/com/Abhaya/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/out/production/Functions/com/Abhaya/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/out/production/Functions/com/Abhaya/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/out/production/Functions/com/Abhaya/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/out/production/Functions/com/Abhaya/Abhaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/out/production/Functions/com/Abhaya/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/out/production/Functions/com/Abhaya/sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/src/com/Abhaya/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/src/com/Abhaya/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/src/com/Abhaya/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/src/com/Abhaya/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/src/com/Abhaya/Abhaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/src/com/Abhaya/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Functions/src/com/Abhaya/sum.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IpAwuWtzVvb0S7uMXMv9HU3x71" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="817ba6a5-1970-4d59-b2dd-60a609c68036" name="Changes" comment="" />
+      <created>1670868392109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670868392109</updated>
+    </task>
+    <servers />
+  </component>
+</project>

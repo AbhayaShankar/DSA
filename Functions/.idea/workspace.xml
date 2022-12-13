@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ac30b68-0cf1-4adf-9d69-2aa66975fe79" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/Conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/out/production/Conditionals/com/Abhaya/Calculator_Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/out/production/Conditionals/com/Abhaya/CaseCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/out/production/Conditionals/com/Abhaya/Largest_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/out/production/Conditionals/com/Abhaya/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/out/production/Conditionals/com/Abhaya/Number_of_times_a_digit_is_repeated_in_a_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/out/production/Conditionals/com/Abhaya/conditionals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/out/production/Conditionals/com/Abhaya/reversing_a_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/Abhaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/Assignments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/Calculator_Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/CaseCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/Largest_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/Number_of_times_a_digit_is_repeated_in_a_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/Volume-of-a-Prism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/conditionals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/Abhaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/Assignments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/Calculator_Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/CaseCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/Largest_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/Number_of_times_a_digit_is_repeated_in_a_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/Volume-of-a-Prism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/conditionals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/out/production/Abhaya/com/Abhaya/reversing_a_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conditionals/src/com/Abhaya/reversing_a_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-prog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/Abhaya/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/Abhaya/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/Abhaya/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/Abhaya/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/Abhaya/Abhaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/Abhaya/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Functions/com/Abhaya/sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Abhaya/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Abhaya/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Abhaya/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Abhaya/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Abhaya/Abhaya.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Abhaya/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Abhaya/sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/Switch Statements.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/out/production/Switch Statements/com/Abhaya/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/out/production/Switch Statements/com/Abhaya/Nested_Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/src/com/Abhaya/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch Statements/src/com/Abhaya/Nested_Switch.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ir85nqd5rONSL9UrqM62q7Wvih" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Abhaya.Main" />
+      <module name="Functions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Abhaya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="personalDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Abhaya.personalDetails" />
+      <module name="Functions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Abhaya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.personalDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ac30b68-0cf1-4adf-9d69-2aa66975fe79" name="Changes" comment="" />
+      <created>1670928162465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670928162465</updated>
+    </task>
+    <servers />
+  </component>
+</project>
