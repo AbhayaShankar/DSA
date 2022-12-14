@@ -10,11 +10,11 @@ public class swap {
 
         String name = "Abhaya Shankar";
         changeName(name);
-        System.out.println(name);
+        System.out.println(name);  // name will be still pointing to Abhaya Shankar while naam will point to Harshit after a different object was created.
     }
 
      static void changeName(String name) {
-        name = "Harshit";
+        name = "Harshit"; // we are not modifying the object, we are creating a new object.
     }
 
     static void swap(int a , int b){
