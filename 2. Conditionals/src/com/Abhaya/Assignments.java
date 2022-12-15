@@ -306,8 +306,48 @@ public class Assignments {
 //        }
 
         // 15. Find Ncr & Npr
+//        System.out.print("Enter n : ");
+//        int n = in.nextInt();
+//        System.out.print("Enter r : ");
+//        int r = in.nextInt();
+//        System.out.print(n + "C" + r + " = ") ;
+//        int ans = (fact(n)/(fact(n-r) * fact(r)));
+//        System.out.println(ans);
 
 
+//        System.out.print("Enter n : ");
+//        int n = in.nextInt();
+//        System.out.print("Enter r : ");
+//        int r = in.nextInt();
+//        System.out.print(n + "P" + r + " = ") ;
+//        int ans = (fact(n)/(fact(n-r)));
+//        System.out.println(ans);
+
+
+        // 16. Reverse A String In Java
+
+        String name = "Abhaya";
+        
+
+        // 17. Find if a number is palindrome or not
+
+        // 18. Future Investment Value
+
+        // 19. HCF Of Two Numbers Program
+
+        // 20. LCM Of Two Numbers
+
+        // 21. Java Program Vowel Or Consonant
+
+        // 22. Perfect Number In Java
+
+        // 23. Check Leap Year Or Not
+
+        // 24. Sum Of A Digits Of Number
+
+        // 25. Abhaya is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
+        //
+        // 26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
 
     }
 
@@ -328,11 +368,12 @@ public class Assignments {
         return sum;
     }
 
-    static int ncr(int num){
-
+    static int fact(int num){
+        int facto = 1;
+        for (int i = 1 ; i < num ; i++){
+           facto = facto * (i+1);
+        }
+        return facto;
     }
 
-    static int npr(int num){
-        
-    }
 }
