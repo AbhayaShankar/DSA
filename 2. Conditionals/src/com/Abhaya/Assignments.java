@@ -326,10 +326,14 @@ public class Assignments {
 
         // 16. Reverse A String In Java
 
-        String name = "Abhaya";
-        
+//        String names = in.nextLine();
+//        String reverseName = reverse(names);
+//        System.out.println(reverseName);
 
         // 17. Find if a number is palindrome or not
+
+//        int num = in.nextInt();
+//        int pdrome = palindrome(num);
 
         // 18. Future Investment Value
 
@@ -349,6 +353,17 @@ public class Assignments {
         //
         // 26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
 
+    }
+
+    static int palindrome(int num) {
+        String number = Integer.toString(num);
+        for (int i = 0; i < number.length() ; i++){
+            if (number.charAt(i) == number.charAt(number.length()-1-i)){
+
+            }
+        }
+        System.out.println("Palindrome");
+        return 0;
     }
 
     static double ci(int p, float r, float t){
@@ -375,5 +390,19 @@ public class Assignments {
         }
         return facto;
     }
+
+        static String reverse(String name){
+            String reverseString = "" ;
+            for (int i = 0 ; i < name.length() ; i++){
+                    char ch = name.charAt((name.length()-1) - i);
+                    reverseString = reverseString + ch;
+//                System.out.println(name.length());
+//                System.out.println(ch);
+            }
+
+            return reverseString;
+        }
+
+
 
 }
