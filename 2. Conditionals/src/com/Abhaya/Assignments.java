@@ -36,8 +36,8 @@ public class Assignments {
 
 
         // 6. Area Of Rhombus
-            // area = 0.5 * d1 * d2; // if diagonals are given
-            // area = b * h ; //if base and height are given
+        // area = 0.5 * d1 * d2; // if diagonals are given
+        // area = b * h ; //if base and height are given
 
         // 7. Area of Equilateral triangle
 
@@ -257,45 +257,78 @@ public class Assignments {
         // 9. Calculate Batting Average
 
         // 10. Calculate CGPA Java Program
-//        System.out.println("Enter marks in Subjects : ");
-//        double marks = in.nextDouble();
-//        String grade = in.next();
-//        int Grade = in.nextInt();
-//        if (marks >= 90){
-//            grade = "A";
-//        } else if (marks >= 80 && marks < 90) {
-//            grade = "B";
+//        System.out.println("CGPA Program");
+//        int noOfSubjects = in.nextInt();
+//        int grade;
+//        double sum = 0;
+//        for (int i = 1 ; i <= noOfSubjects ; i++){
+//            System.out.print("Enter marks in Subject" + i + " : ");
+//            double marks = in.nextDouble();
+//            if (marks >= 90){
+//                grade = 10;
+//            } else if (marks >= 80 && marks < 90) {
+//                grade = 9;
+//            }
+//            else if (marks >= 70 && marks < 80) {
+//                grade = 8;
+//            }
+//            else if (marks >= 60 && marks < 70) {
+//                grade = 7;
+//            }
+//            else if (marks >= 50 && marks < 60) {
+//                grade = 6;
+//            }
+//            else {
+//                grade = 5;
+//            }
+//            sum = sum + grade;
+//            System.out.println("Grade is : " + grade);
+//
 //        }
-//        else if (marks >= 70 && marks < 80) {
-//            grade = "C";
+//        System.out.println("CGPA for the Student is :  " + (sum / noOfSubjects ) );
+
+
+        // 11. Compound Interest Java Program
+
+//        double ans = ci(10000, 7.5F, 4);
+//        System.out.println("ci is : " + ans );
+
+        // 12. Calculate Average Marks
+        // 13. Sum Of N Numbers
+
+        // 14. Armstrong Number In Java
+//        int num = in.nextInt();
+//        double ans = armstrong(num);
+//        if (ans == num) {
+//            System.out.println(num + " is a Armstrong Number.");
+//        } else {
+//            System.out.println("Not a Armstrong Number.");
 //        }
-//        else if (marks >= 60 && marks < 70) {
-//            grade = "D";
-//        }
-//        else{
-//            grade = "E";
-//        }
-//
-//        switch (grade){
-//            case "A" :
-//                Grade = 10;
-//                break;
-//
-//            case "B" :
-//                Grade = 9;
-//                break;
-//
-//            case "C" :
-//                Grade = 8;
-//                break;
-//
-//            case "D" :
-//                Grade = 7;
-//                break;
-//
-//            case "E" : Grade = 6;
-//        }
-//
-//        System.out.println(Grade * 9.5);
+
+        // 15. Find Ncr & Npr
+
+
+
+    }
+
+    static double ci(int p, float r, float t){
+        float rate = (1 + (r/100));
+        double rp = Math.pow(rate,t);
+        double ci = p * rp;
+        return ci;
+    }
+
+    static double armstrong(int n){
+        double sum = 0;
+        while(n > 0){
+            int rem = n % 10;
+            sum = sum + Math.pow(rem , 3);
+            n = n /10;
+        }
+        return sum;
+    }
+
+    static int ncr(int num){
+
     }
 }
