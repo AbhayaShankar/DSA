@@ -331,4 +331,8 @@ public class Assignments {
     static int ncr(int num){
 
     }
+
+    static int npr(int num){
+        
+    }
 }
