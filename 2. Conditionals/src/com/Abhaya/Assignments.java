@@ -338,12 +338,32 @@ public class Assignments {
         // 18. Future Investment Value
 
         // 19. HCF Of Two Numbers Program
+//        int a = in.nextInt();
+//        int b = in.nextInt();
+//        int ans = gcd(a, b);
+//        System.out.println("GCD of " + a + " and " + b + " is: " + ans);
 
         // 20. LCM Of Two Numbers
+//        int a = in.nextInt();
+//        int b = in.nextInt();
+//        int ans = lcm(a, b);
+//        System.out.println("LCM of " + a + " and " + b + " is: " + ans);
 
         // 21. Java Program Vowel Or Consonant
+//        System.out.println("Enter a String : ");
+//        String str = in.nextLine();
+//        String ans = check(str);
+//        System.out.println(ans);
+
 
         // 22. Perfect Number In Java
+        // Perfect Number is defined as the number can be written as the sum of its proper divisors excluding the number itself.
+        // Ex - 6 : 1 + 2 + 3 ; 28 : sum(1,2,4,7,14)
+        System.out.println("Enter a number : ");
+        int n = in.nextInt();
+//        int ans = prfNum(n);
+//        System.out.println(ans);
+
 
         // 23. Check Leap Year Or Not
 
@@ -354,6 +374,38 @@ public class Assignments {
         // 26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
 
     }
+
+//    static int prfNum(int n) {
+//
+//    }
+
+    static String check(String str) {
+
+         for (int i = 0; i < str.length(); i++) {
+             char ch = str.charAt(i);
+             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
+                 System.out.println(ch + " is a Vowel");
+             } else {
+                 System.out.println(ch + " is a Consonant");
+             }
+         }
+         return "done";
+     }
+
+    static int lcm(int a ,  int b){
+        int prod = a * b;
+        return prod / gcd(a,b);
+    }
+
+     static int gcd(int a, int b) {
+        if(a == b){
+            return a;
+        } else if (a > b) {
+           return gcd(a - b , b);
+        } else {
+            return gcd(a , b-a);
+        }
+     }
 
     static int palindrome(int num) {
         String number = Integer.toString(num);
