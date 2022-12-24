@@ -10,6 +10,7 @@ public class targetArray {
         ArrayList<Integer> target = new ArrayList<>();
         for (int i = 0; i < nums.length; i++) {
             target.add(index[i], nums[i]);
+            target.size();
         }
         int[] result = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
