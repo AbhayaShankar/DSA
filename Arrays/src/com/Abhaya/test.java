@@ -1,5 +1,6 @@
 package com.Abhaya;
 
+import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -9,9 +10,8 @@ public class test {
         int[] index = {0,1,2,2,1};
 //        Scanner in = new Scanner(System.in);
         ArrayList<Integer> target = new ArrayList<>();
-        for (int i = 0; i < nums.length; i++) {
-            target.add(index[i], nums[i]);
-        }
-        System.out.println(target);
+        long sum = (long)Math.pow(10, 19);
+        System.out.println(Math.pow(10, 19));
+        System.out.println(sum);
     }
 }
