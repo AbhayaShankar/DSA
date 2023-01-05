@@ -10,8 +10,9 @@ public class ElementInInfiniteArray {
         int target = 42;
         int ans = search(nums, target);
         System.out.println(ans);
+        System.out.println(answer(nums , target));
     }
-
+    // Method 1 : I solved it using this logic...
     static int search(int[] nums , int target){
         int start = 0;
         int end = 2;
@@ -28,6 +29,36 @@ public class ElementInInfiniteArray {
                 return mid;
             }
         }
+        return -1;
+    }
+
+    // Method 2 : Easy to understand.
+
+    static int answer(int[] nums , int target){
+        int start = 0;
+        int end = 1;
+        while(target > nums[end]){
+            int newStart = end + 1;
+            // doubling the size of the array.
+            end = end + (end - start + 1) * 2;
+            start = newStart;
+        }
+        return binarySearch(nums , target , start , end);
+    }
+
+    static int binarySearch(int[] nums , int target , int start , int end){
+        while(start <= end) {
+            int mid = start +(end - start)/2;
+            if(target < nums[mid]){
+                end = mid - 1;
+            }else if (target > nums[mid]){
+                start = mid + 1;
+            }
+            else {
+                return mid;
+            }
+        }
+
         return -1;
     }
 }
