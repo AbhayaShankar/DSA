@@ -3,7 +3,7 @@ package com.Abhaya;
 public class searchInRotatedArray {
     public static void main(String[] args) {
         // 33. Search in Rotated Sorted Array
-        int[] nums = {1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1};
+        int[] nums = {4,5,6,7,0,1,2,3};
         int target = 0;
         int ans = pivot(nums);
         System.out.println(ans);
