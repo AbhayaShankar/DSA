@@ -2,7 +2,7 @@ package com.Abhaya;
 
 public class orderAgnosticSearch {
     public static void main(String[] args) {
-        int[] arr = {-81,-35,-12,-5,0,1,4,11,23,30,42,75};
+        int[] arr = {90,34,21,19,11,5,0,-3,-5,-9,-22,-29,-40,-58};
         int target = 11;
         int ans = binarySearch(arr, target);
         System.out.println(ans);
