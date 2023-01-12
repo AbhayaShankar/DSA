@@ -2,8 +2,8 @@ package com.Abhaya;
 
 public class floorOfNumber {
     public static void main(String[] args) {
-        int[] nums = {1,10};
-        int target = 8 ;
+        int[] nums = {1,2,3,4,5,6,7,8,9};
+        int target = 3 ;
         int ans = searchInsert(nums , target);
         System.out.println(ans);
     }
@@ -26,7 +26,7 @@ public class floorOfNumber {
             return -1;
         }
 
-        int mid = 0;
+        int mid;
         while (start <= end) {
             mid = start + (end - start) / 2;
             if (nums[mid] == target) {
